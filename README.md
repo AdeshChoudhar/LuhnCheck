@@ -1,6 +1,6 @@
-# SE-I Mini Project
+# LuhnCheck
 
-## Credit Card Validator
+## SE-I Mini Project
 
 ### Usage: main.sh
 
